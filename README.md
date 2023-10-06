@@ -3,6 +3,6 @@
 
 
 - ✋Hi there, I am Dhanush
-- 🔭 I’m currently working on python<br>
+- 🔭 I’m currently working on Full stack development<br>
 - 🌱 I’m currently learning CSE Software Engineering
 
