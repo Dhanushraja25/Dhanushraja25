@@ -13,3 +13,8 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" alt="python" width="40" height="40"/></a>
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="50" height="50"/></a>
 </p>
+<h3>Connect with me:</h3>
+<p>
+<a href="https://linkedin.com/in/raja"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+<a href="https://reddit.com/user/dead_desire_"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&amp;logoColor=white" alt="Reddit"></a>
+</p>
