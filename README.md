@@ -23,3 +23,10 @@
 <a href="https://www.hackerrank.com/profile/Dhanushraja0253"><img src="https://img.shields.io/badge/hackkerrank-00C060?logo=hackerrank&logoColor=010203" alt="Hackkerrank"></a>
 <a href="https://www.codechef.com/users/srmcse_293"><img src="https://img.shields.io/badge/Codechef-FF6C22?logo=codechef" alt="Codechef"></a>
 </p>
+
+<table>
+    <tr>
+        <td>My Excursion</td>
+        <td><img src="https://profile-counter.glitch.me/Vikashini-G/count.svg"/></td>
+    </tr>
+</table>
