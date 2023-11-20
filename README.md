@@ -13,7 +13,6 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" alt="python" width="40" height="40"/></a>
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="50" height="50"/></a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="CSS" width="40" height="50"/></a>
-<a href="https://www.w3schools.com/js/js_intro.asp" target="_blank" rel="noreferrer"> <img src="https://o.remove.bg/downloads/865c473b-e337-4b4b-afd6-82c08b288c62/374725-removebg-preview.png" alt="JS" width="50" height="50"/></a>
 
 </p>
 <h3>Connect with me:</h3>
