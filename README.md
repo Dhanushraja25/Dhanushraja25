@@ -1,6 +1,5 @@
 
-<img src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" height="650px" width="1000px">
-                                            
+![MasterHead](https://www.codefeast.in/static/media/fullstackgif.735f2c71a240de0a2851.gif)                                            
 
 <p>                                             - ✋Hi there, I am Dhanush</p>
 <p>                                             - 🔭 A passionate frontend developer from India</p>
