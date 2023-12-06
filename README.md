@@ -1,5 +1,5 @@
 
-![MasterHead](https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)
+<img src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" height="650px" width="1000px">
                                             
 
 <p>                                             - ✋Hi there, I am Dhanush</p>
