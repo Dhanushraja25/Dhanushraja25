@@ -1,7 +1,5 @@
 
-  
- <img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" height="350px" width="550px" >
-
+![MasterHead](https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif)
                                             
 
 <p>                                             - ✋Hi there, I am Dhanush</p>
