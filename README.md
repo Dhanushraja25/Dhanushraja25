@@ -1,9 +1,7 @@
+<h1 align="center">Hi 👋, I'm DHANUSH</h1>
+<h3 align="center">A passionate Web developer from India, SRMIST Kattankulathur</h3>
+<p><img align="center" alt="Coding" width="1000" src="https://www.codefeast.in/static/media/fullstackgif.735f2c71a240de0a2851.gif"></p>
 
-![MasterHead](https://www.codefeast.in/static/media/fullstackgif.735f2c71a240de0a2851.gif)                                            
-
-<p>                                             - ✋Hi there, I am Dhanush</p>
-<p>                                             - 🔭 A passionate frontend developer from India</p>
-<p>                                             - 🌱 I’m currently pursuing CSE Software Engineering</p>
 
 </div>
 <h3 align="left">Languages and Tools:</h3>
