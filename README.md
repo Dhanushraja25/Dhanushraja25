@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm DHANUSH</h1>
-<h3 align="center">A passionate Web developer from India, SRMIST Kattankulathur</h3>
-<p><img align="center" alt="Coding" width="1000" src="https://www.codefeast.in/static/media/fullstackgif.735f2c71a240de0a2851.gif"></p>
+<h1 align="center">Hi 👋, I'm Dhanush</h1>
+<h2 align="center">A Passionate Web developer from India, SRMIST</h2>
+<p><img align="center" alt="Coding" width="1000" height="500px" src="https://www.codefeast.in/static/media/fullstackgif.735f2c71a240de0a2851.gif"></p>
 
 
 </div>
@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" alt="python" width="40" height="40"/></a>
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="50" height="50"/></a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="CSS" width="40" height="50"/></a>
-
+   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" alt="CSS" width="90" height="50"/></a>
 </p>
 <h3>Connect with me:</h3>
 <p>
