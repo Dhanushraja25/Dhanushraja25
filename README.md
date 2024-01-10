@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dhanush<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=03F700&random=false&width=450&lines=A+Passionate+Web+Developer+From+India" alt="Typing SVG" /></a>
+<h1 align="center">Hi 👋, I'm Dhanush<br><br>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1500&color=4BF70A&random=false&width=450&lines=A+Passionate+Web+Developer+From+India)](https://git.io/typing-svg)
 </h1>
 
 <div align="center">
