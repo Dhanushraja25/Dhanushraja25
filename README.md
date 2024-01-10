@@ -2,22 +2,23 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=03F700&random=false&width=450&lines=A+Passionate+Web+Developer+From+India" alt="Typing SVG" /></a>
 </h1>
 
-</div>
+<div align="center">
 
 ### Languages and Tools:
+
 <br>
 
-[<img align="left" alt="Visual Studio Code" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/download)
-[<img align="left" alt="HTML5" width="34px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />](https://html.com/)
-[<img align="left" alt="JavaScript" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>](https://javascript.com/)
-[<img align="left" alt="React" width="34px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/>](https://www.reactjs.org//) <br><br><br>
-[<img align="left" alt="CSS3" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" />](https://en.wikipedia.org/wiki/CSS)
-[<img align="left" alt="python" width="34px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />](https://www.python.org/)
-[<img align="left" alt="C++" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/>](https://www.cplusplus.com/)
-[<img align="left" alt="Flutter" width="34px" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" />](https://flutter.dev/)
+[<img align="center" alt="Visual Studio Code" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/download) &nbsp; &nbsp; 
+[<img align="center" alt="HTML5" width="34px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />](https://html.com/) &nbsp; &nbsp;
+[<img align="center" alt="JavaScript" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>](https://javascript.com/) &nbsp; &nbsp;
+[<img align="center" alt="React" width="34px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/>](https://www.reactjs.org//) <br><br><br>
+[<img align="center" alt="CSS3" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" />](https://en.wikipedia.org/wiki/CSS) &nbsp; &nbsp;
+[<img align="center" alt="python" width="34px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />](https://www.python.org/) &nbsp; &nbsp;
+[<img align="center" alt="C++" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/>](https://www.cplusplus.com/) &nbsp; &nbsp;
+[<img align="center" alt="Flutter" width="34px" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" />](https://flutter.dev/)
 
-  
-</p><br><br>
+  </div>
+<br><br>
 <h3>Connect with me:</h3>
 <p>
 <a href="https://www.linkedin.com/in/dhanushraja-s-977a24237/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
