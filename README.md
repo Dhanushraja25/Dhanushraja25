@@ -28,9 +28,10 @@
 ### Connect with me :
 <br>
 <p>
-<a href="https://www.linkedin.com/in/dhanushraja-s-977a24237/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> &nbsp;
-<a href="https://www.reddit.com/u/wise---talks/s/sAef3I1Nhc"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&amp;logoColor=white" alt="Reddit"></a> &nbsp;
-<a href="https://www.instagram.com/dhanushraja_25/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23833AB4?style=flat&logo=Instagram&logoColor=%23FFFFFF"></a>
+<a href="mailto:dhanu25032003@gmail.com"><img src="https://img.shields.io/badge/Email-%23FF0000?style=flat&logo=gmail&logoColor=%23FFFFFF" alt="Email"></a>&nbsp;
+<a href="https://www.linkedin.com/in/dhanushraja-s-977a24237/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>&nbsp;
+<a href="https://www.reddit.com/u/wise---talks/s/sAef3I1Nhc"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&amp;logoColor=white" alt="Reddit"></a>
+
 
   
 
@@ -39,5 +40,6 @@
 </div>
 
 <!--<a href="https://www.hackerrank.com/profile/Dhanushraja0253"><img src="https://img.shields.io/badge/hackkerrank-00C060?logo=hackerrank&logoColor=010203" alt="Hackkerrank"></a> &nbsp;
-<a href="https://www.codechef.com/users/srmcse_293"><img src="https://img.shields.io/badge/Codechef-FF6C22?logo=codechef" alt="Codechef"></a>-->
+<a href="https://www.codechef.com/users/srmcse_293"><img src="https://img.shields.io/badge/Codechef-FF6C22?logo=codechef" alt="Codechef"></a>
+<a href="https://www.instagram.com/dhanushraja_25/"><img src="https://img.shields.io/badge/Instagram-%235652ca?logo=instagram&logoColor=%23FFFFFF" alt="Instagram" ></a> &nbsp;-->
 
