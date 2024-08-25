@@ -28,7 +28,7 @@
 ### Connect with me :
 <br>
 <p>
-<a href="dhanushraja0253@gmail.com"><img src="https://img.shields.io/badge/Email-%23FF0000?style=flat&logo=gmail&logoColor=%23FFFFFF" alt="Email"></a>&nbsp;
+<a href="mailto:dhanushraja0253@gmail.com"><img src="https://img.shields.io/badge/Email-%23FF0000?style=flat&logo=gmail&logoColor=%23FFFFFF" alt="Email"></a>&nbsp;
 <a href="https://www.linkedin.com/in/dhanush-raja-977a24237/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>&nbsp;
 <a href="https://www.reddit.com/u/zen-xen/s/sAef3I1Nhc"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&amp;logoColor=white" alt="Reddit"></a>
 
