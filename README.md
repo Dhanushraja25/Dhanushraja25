@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhanush<br></h1>
 <h3 align="center">A Passionate Web Developer From India</h3>
-<hr>
 
+<br>
   
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1500&color=4BF70A&random=false&width=450&lines=A+Passionate+Web+Developer+From+India)](https://git.io/typing-svg)-->
 
